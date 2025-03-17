@@ -1,0 +1,23 @@
+{
+  "name": "uniswap-v4-hook-for-automated-yield-farming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "chai": "^5.2.0",
+    "hardhat": "^2.22.19"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
+    "@uniswap/v4-core": "^1.0.1",
+    "@uniswap/v4-periphery": "^1.0.1"
+  }
+}
